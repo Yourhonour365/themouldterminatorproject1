@@ -120,8 +120,7 @@ main {
   position: relative;
   width: 100%;
   min-height: 335px;
-  background-image: url('themouldterminatorproject1
-/mouldonwall.jpg');
+  background-image: url('/mouldonwall.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
